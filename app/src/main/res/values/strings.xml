@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">foody</string>
+    <string-array name="pizzas">
+        <item>Margherita</item>
+        <item>Deluxe Veggie</item>
+        <item>5 Pepper</item>
+        <item>Farmhouse</item>
+        <item>Peppy Panner</item>
+        <item>Cheese n Corn</item>
+        <item>Mexican Green Wave</item>
+        <item>Panner Makhini</item>
+    </string-array>
+    <integer-array name="regular_pizes">
+        <item name="Margherita">99</item>
+        <item name="Deluxe Veggie">230</item>
+        <item name="5 Pepper">230</item>
+        <item name="Farmhouse">195</item>
+        <item name="Peppy Panner">195</item>
+        <item name="Cheese n Corn">155</item>
+        <item name="Mexican Green Wave">195</item>
+        <item name="Panner Makhini">155</item>
+    </integer-array>
+    <integer-array name="medium_pizes">
+        <item name="Margherita">195</item>
+        <item name="Deluxe Veggie">440</item>
+        <item name="5 Pepper">440</item>
+        <item name="Farmhouse">365</item>
+        <item name="Peppy Panner">365</item>
+        <item name="Cheese n Corn">295</item>
+        <item name="Mexican Green Wave">365</item>
+        <item name="Panner Makhini">295</item>
+    </integer-array>
+    <integer-array name="large_pizes">
+        <item name="Margherita">395</item>
+        <item name="Deluxe Veggie">655</item>
+        <item name="5 Pepper">655</item>
+        <item name="Farmhouse">545</item>
+        <item name="Peppy Panner">545</item>
+        <item name="Cheese n Corn">445</item>
+        <item name="Mexican Green Wave">545</item>
+        <item name="Panner Makhini">445</item>
+    </integer-array>
+    <string-array name="toppings">
+        <item name="Margherita">Cheesy Classic</item>
+        <item name="Deluxe Veggie">Onion | Capsicum | Grilled Mushroom | Golden Corn and Panner</item>
+        <item name="5 Pepper">Capsicum | Yellow and Red Bell Pepper | Jalapeno and Red Paprika</item>
+        <item name="Farmhouse">Onion | Capsicum | Tomato and Grilled Mushroom</item>
+        <item name="Peppy Panner">Paneer | Capsicum and Red Paprika</item>
+        <item name="Cheese n Corn">Cheese and Golden Corn</item>
+        <item name="Mexican Green Wave">Onion | Crisp Capsicum | Fresh Tomato and Jalapeno sprinkled with exotic Mexican Herbs</item>
+        <item name="Panner Makhini">Paneer and Capsicum on Makhani Sauce</item>
+    </string-array>
+    <string name="rupees">\u20B9</string>
+    <string-array name="aboutcrust">
+        <item name="New Hand Tossed">Classic Domino\'s crust. Fresh\, hand stretched</item>
+        <item name="Wheat Thin Crust">Goodness of whole wheat. Thin and crunchy</item>
+        <item name="Cheese Burst">Creamy liquid cheese oozing from the crust</item>
+        <item name="Fresh Pan Pizza">Special buttery taste in the crust</item>
+        <item name="Classic Hand Tossed">Classic Domino\'s crust. Fresh\, hand stretched</item>
+    </string-array>
+    <string-array name="drinks">
+        <item>Coco Cola</item>
+        <item>Fanta</item>
+        <item>Sprite</item>
+        <item>Minute Made Orange</item>
+    </string-array>
+</resources>
