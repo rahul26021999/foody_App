@@ -1,1 +1,1 @@
-# foodzy_App
+# foody_App
